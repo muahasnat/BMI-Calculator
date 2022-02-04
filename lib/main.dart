@@ -1,5 +1,5 @@
 import 'package:bmi_calculator/good_tips.dart';
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
